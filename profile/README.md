@@ -20,7 +20,7 @@ Along the way, students gain more than technical skill: they learn to work in te
 
 Follow us on [Linkedin](https://www.linkedin.com/company/software-acceleration-team-ksu/)
 
-Join our [Discord](https://discord.gg/5NpPhyfnx)
+Join our [Discord](https://discord.gg/fcwTBYQvr7)
 
 ---
 
