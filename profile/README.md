@@ -12,7 +12,7 @@ Along the way, students gain more than technical skill: they learn to work in te
 ---
 
 >„Wenn wir die Menschen nur nehmen, wie sie sind, so machen wir sie schlechter; wenn wir sie behandeln, als wären sie, was sie sein sollten, so bringen wir sie dahin, wohin sie zu bringen sind.“` 
-
+>
 >“If we take people as they are, we make them worse. If we treat them as what they ought to be, we help them become what they’re capable of becoming.” - Goethe, Wilhelm Meister’s Apprenticeship
 
 ---
@@ -26,8 +26,8 @@ Join our [Discord](https://discord.gg/fcwTBYQvr7)
 
 We hold our meetings:
 
->every `Friday` from `18:30-20:00 EST` 
+>every `Friday` from `16:30-19:30 EST` 
 
 on the KSU Marietta Campus, 
 
->Location: `tbd`
+>Location: `Shore-2413 (Shore-1115 starting 11/20/26)`
